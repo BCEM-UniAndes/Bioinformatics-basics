@@ -1,5 +1,5 @@
 #!/bin/bash
-#Así se empieza un script de bash (shellscript)
+#Asi se empieza un script de bash (shellscript)
 #Se usa la misma terminología que en la línea de comandos 
 
 #Este es el cuerpo de un job de SBATCH
